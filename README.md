@@ -6,7 +6,7 @@ Restro webpage is hoised on github pages. [Link to webpage](https://shidhishiva.
 
 Single Product Landing Page website. Using HTML, CSS, JAVASCRIPT
 
-## Webpage demo imgaes 
+## Webpage demo images 
 ![images](images/sample.png)
 ![images](images/sample1.png)
 
